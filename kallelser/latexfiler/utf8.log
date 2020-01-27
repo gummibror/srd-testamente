@@ -1,0 +1,16 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdftex 2018.11.12)  25 JAN 2019 19:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**utf8.tex
+(./utf8.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  {dsekkallelse}
+? 
+! Emergency stop.
+l.1 \documentclass
+                  {dsekkallelse}
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
