@@ -6,6 +6,8 @@ Många av sakerna i quick guiden tar kort tid men i och med att man ska göra de
 
 Gamla kallelser och hur man skickar kallelser finns i en mapp som heter kallelser ett lager upp härifrån. Egentligen ska alla srds kallelser komma upp på tavlan i iDét (enligt reglementet, men vi brukar vara lite dåliga på det.
 
+Maillistorna går till funktionärerna, se därför till att funktionärerna är inlagda på hemsidan.
+
 ## fikaasdf 
 
 
