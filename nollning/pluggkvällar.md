@@ -2,7 +2,7 @@
 
 Under nollningen brukar SRD hålla i ett antal pluggr där vi bjuder på mat. En av dem brukar sammanfalla med en pub. Det lagas mycket mat på dsek så kom ihåg att det finns många man kan fråga om bra idér.
 
-## tips från 2019
+## tips från tidigare år
 
 Kontakta staben och kämpa för att ha en pluggphadder i varje phaddergrupp som kommer på varje plugg Det hjälper för nollorna att veta att de känner någon som är där samt att se sina phaddrar gå.
 
@@ -10,9 +10,12 @@ Prata gärna med någon i från ett gammalt sex eller dylikt för att få en upp
 
 Se till att ta god hjälp av pluggphaddrarna under nolliningen, träffa dem innan det drar igång och inkludera dem i matplanerna så de känner sig lite ansvar för att eventen blir bra.
 
+Sätt ihop en liten taskforce, som ska vara med och laga mat samt ta hand om puben.
+
 ## märken
 
 Det finns märkesdesigner i denna mapp, du kan uppdatera dem med adobe illustrator eller använda dem som de är. 50 var för få för att alla skulle få 2019, 75 är nog ett bättre tal. 2019 beslutades att alla märken ska köpas via aktu.
+Det var 100 märken var 2020 och 75 hade varit ett bättre antal för oss.
 
 ## quick guide
 
