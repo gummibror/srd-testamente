@@ -23,14 +23,14 @@ Det var 100 märken var 2020 och 75 hade varit ett bättre antal för oss.
 
 *   [ ] Bestäm designerna på märkena
 *   [ ] Skicka antal och design till Aktu så beställer de dem åt dig
-*   [ ] Ha möte med staben och prata om dagar och tider
+*   [ ] Ha möte med staben och prata om dagar och tider samt ansvarsområde
 *   [ ] Boka ca 4 salar att ha pluggkvällarna i
 *   [ ] Fundera över om du vill ha fler/andra tröjor till pluggphaddrarna, det finns några nu men inte så många men folk verkade uppskatta att ha jobbarkläder
 
 ### innan nollningen
 
-*   [ ] Gör en grovplanering med pluggphaddrarna om vilken mat som ska lagas
-*   [ ] Prata med staben/sexet och bestäm när ni ska ha köket
+*   [ ] Gör en grovplanering med taskforce om vilken mat som ska lagas och om det behövs extern hjälp av t ex pluggphaddrar
+*   [ ] Prata med staben/sexet/café och bestäm när ni ska ha köket
 
 ### axfood mini-guide
 
