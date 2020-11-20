@@ -21,7 +21,7 @@ Det finns märkesdesigner i denna mapp, du kan uppdatera dem med adobe illustrat
 *   [ ] Bestäm designerna på märkena
 *   [ ] Skicka antal och design till Aktu så beställer de dem åt dig
 *   [ ] Ha möte med staben och prata om dagar och tider
-*   [ ] Boka ca 3 salar att ha pluggkvällarna i
+*   [ ] Boka ca 4 salar att ha pluggkvällarna i
 *   [ ] Fundera över om du vill ha fler/andra tröjor till pluggphaddrarna, det finns några nu men inte så många men folk verkade uppskatta att ha jobbarkläder
 
 ### innan nollningen
