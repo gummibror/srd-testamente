@@ -10,6 +10,8 @@ Gamla kallelser och hur man skickar kallelser finns i en mapp som heter kallelse
 
         Tips är att räkna gärna fikabudgeten på ca 25 möten eller så du vet hur dyr fika du bör köpa :)
         Massariner är ofta populärt!
+        
+        Håll koll på drickan som togs ut under mötet, jag gjorde genom att antingen göra en lista på vad jag tog för att sen jämföra med vad som va kvar eller om det gick kolla de         tomma brukarna. 
 
 ## quickguide
 *   [ ] Renskriv förra veckans protokoll
