@@ -6,7 +6,9 @@ Under nollningen brukar SRD hålla i ett antal pluggr där vi bjuder på mat. En
 
 Kontakta staben och kämpa för att ha en pluggphadder i varje phaddergrupp som kommer på varje plugg Det hjälper för nollorna att veta att de känner någon som är där samt att se sina phaddrar gå.
 
-Prata gärna med någon i från ett gammalt sex eller dylikt för att få en uppskattning av hur mycket mat man behöver laga. Under mitt år så lagade vi uppemot 100 portioner mat varje
+Klargör också med staben vad som är vems ansvarsområde, 2020 ville vi inte styra allt utom pluggphaddrarna vilket klargjordes tidigt, kanske lite för tidigt, det glömdes bort lite och var lite otydligt när nollningen drog igång.
+
+Prata gärna med någon i från ett gammalt sex eller dylikt för att få en uppskattning av hur mycket mat man behöver laga. Under mitt år, 2019, så lagade vi uppemot 100 portioner mat varje kväll. 2020, lagade vi 80.
 
 Se till att ta god hjälp av pluggphaddrarna under nolliningen, träffa dem innan det drar igång och inkludera dem i matplanerna så de känner sig lite ansvar för att eventen blir bra.
 
