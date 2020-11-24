@@ -21,4 +21,5 @@ Som nyvald funktionär väljer du och ordföranden+vice om du hur du vill hjälp
     Hus-styrelsen (1 person) -> Drygt ett möte på 1.5 timme per läsperiod. Du blir vår kontakt med huset, särskillt viktigt nu när mats snart går i pension.
     EIT:s styrelse (1 person) -> Ett något långsamt möte på 1-2 timmar per läsperiod. Sägs det något intressant eller nåt vi bör veta så rapporterar du det till resten av SRD. Det handlar ofta om budgetar, deras kursutbud eller framtida anställningar. Du får rösträtt.
     CS:s styrelse (1-2 personer) -> Kring två möten på 1.5 timme per läsperiod. Till stor del samma som EIT:s möten men något livligare.
+    DESIGN:s styrelse (1 personer) -> Suppleantpost, vi har inte haft någon där tidigare (2020) men verkar vara någon möte per LP.
     Programledningen (2 från C och 2 från D) -> Ett möte på 2 timmar ungefär var tredje vecka. På dessa möten är vi med bestämmer om det mesta som är relevant för vår utbildning, vilka kurser vi ska läsa, vilka specialiseringar som finns etc. Trevliga och viktiga möten.
