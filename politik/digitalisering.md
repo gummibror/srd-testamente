@@ -2,7 +2,8 @@
 
 ## Vad gör digitaliseringsgruppen?
 
-Det finns en grupp som jobbar med att tänka om grundblocket på InfoCom. De kommer förmodligen ha möten hela vägen fram till sommaren 2020.
+Det finns en grupp som jobbar med att tänka om grundblocket på InfoCom. De kommer förmodligen ha möten hela vägen fram till sommaren 2020. 
+  Och det hade dom. De planerar att det nya grundblocket ska köras igång hösten 2021. Det ser ut att stämma överens bra med det önskemål som studenterna hade (se nedan). 
 
 ## Vår ställning till digitaliseringen
 
