@@ -2,7 +2,7 @@
 
 Ceqprocessen i stora drag, expanderade på i styckena undertill:
 
-*   Kursombud väljs, vi tipsar om att kolla info om förra året och ger sallad
+*   Kursombud väljs, vi tipsar om att kolla info om förra året och ger sallad. 2020: nu när Café iDét har fått ett uppschwong tyckte vi det va roligare att återinföra café biljetterna. 2 st per möte och 40 kr per biljett. Utmaningen är att få folk att veta om att de ska få biljetter så de kan hämta.
 *   CEQ-enkäter fylls i och censureras
 *   Vi lottar ut ica-kort för att motivera ifyllandet
 *   Progledningen kallar en av dem + läraren + en av oss till möte
